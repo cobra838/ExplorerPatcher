@@ -14,7 +14,7 @@
 ;x 0 Always combine
 ;x 1 Combine when taskbar is full
 ;x 2 Never combine
-"TaskbarGlomLevel"=dword:00000002
+"TaskbarGlomLevel"=dword:00000000
 ;c 3 Combine taskbar icons on other taskbars
 ;x 0 Always combine
 ;x 1 Combine when taskbar is full
